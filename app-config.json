@@ -1,0 +1,9 @@
+{
+	"command": "java -jar raiseIssue-service-0.0.1-SNAPSHOT.jar",
+	"build_path": "D:\\CSM\\Backend\\raiseIssue-service",
+	"stack": "java17",
+	"env_variables": {},
+	"memory": 256,
+	"scripts": {},
+	"platform": "javase"
+}
